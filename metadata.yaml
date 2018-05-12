@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '32809'
     url: http://www.gutenberg.org/2009/agents/32809
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27639#New-Vegetarian-Dishes
 gutenberg_bookshelf: Cookery
 gutenberg_issued: '2008-12-27'
 gutenberg_type: Text
